@@ -1,0 +1,37 @@
+# Header
+menu:
+  Accueil: /
+  Archives: /archives
+  Portfolio: https://lucasalt.fr/
+
+# Content
+excerpt_link: Voir plus
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- follow_me
+- recent_posts
+- category
+- tagcloud
+# - tag
+# - archive
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+# google_analytics:
+favicon: /img/favicon.png
+twitter: MrDragonXM15
+# google_plus:
+# fb_admins:
+# fb_app_id:
