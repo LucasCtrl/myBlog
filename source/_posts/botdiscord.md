@@ -6,7 +6,7 @@ tags:
 - js
 - Discord
 - bot
-photos: https://blog.lucasalt.fr/img/discord-banner.jpg
+photos: https://blog.lucasalt.fr/img/banner/discord-banner.jpg
 ---
 
 Bon, on change un peu du développement web.<br>

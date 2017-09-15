@@ -5,7 +5,7 @@ categories:
 tags:
 - hexo
 - La vie du blog
-photos: https://blog.lucasalt.fr/img/hexo-logo.png
+photos: https://blog.lucasalt.fr/img/banner/hexo-logo.png
 ---
 
 Aujourd'hui, j'ouvre mon blog. Il est propulsé par Hexo, un petit générateur de site web statique. C'est un peu déstabilisant au début, mais on s'y fait rapidement. C'est un peu comme Jekyll sauf que celui-ci fonctionne avec Node à contratio de Jekyll qui lui fonctionne avec Ruby. C'est un gain de temps au niveau de l'installation, car node est pratiquement sur toutes les machines Linux, donc il suffit juste de mettre à jour node ainsi que npm.

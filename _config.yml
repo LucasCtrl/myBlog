@@ -91,11 +91,9 @@ deploy:
   connections: 1
   verbose: true
 
-# # Github Emojis
-# ## Docs: https://github.com/crimx/hexo-filter-github-emojis
-# githubEmojis:
-#   enable: true
-#   className: github-emoji
-#   unicode: true
-#   styles:
-#   localEmojis:
+# Github Emojis
+## Docs: https://github.com/crimx/hexo-filter-github-emojis
+githubEmojis:
+  enable: true
+  className: github-emoji
+  unicode: true
