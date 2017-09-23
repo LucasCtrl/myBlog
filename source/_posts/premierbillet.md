@@ -36,3 +36,6 @@ $ hexo new 'post|draft|page' "Titre du post"
 ```
 
 Ensuite, on peut s'amuser à modifier le template de base ou alors télécharger un nouveau template dans la rubrique dédiée à cela. Personnellement, j'ai gardé le theme de base qui est le _landscape_ et je l'ai légèrement modifié à ma sauce.
+
+### Sources :
+Image de une par [Hexo](https://github.com/hexojs/logo)

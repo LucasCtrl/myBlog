@@ -115,5 +115,6 @@ node app.js
 #### Et voilà votre bot est maintenant opérationnel !! Cela aura pris un peu de temps, mais cela en valait le coup.
 
 ### Sources :
+Image de une par [Discord](https://discordapp.com/)
 Documentation officielle : [https://discord.js.org/#/](https://discord.js.org/#/)
 Livre de _AnIdiotsGuide_ : [https://www.gitbook.com/book/anidiotsguide/discord-js-bot-guide/details](https://www.gitbook.com/book/anidiotsguide/discord-js-bot-guide/details)
