@@ -1,10 +1,11 @@
 ---
 title: Un bot discord
+date: 2017-09-15 15:42:23
 categories:
 - Développement
 tags:
 - js
-- Discord
+- discord
 - bot
 photos: https://blog.lucasalt.fr/img/banner/discord-banner.jpg
 ---
@@ -66,7 +67,7 @@ Maintenant, on rentre dans le vif du sujet !
 
 Nous allons commencé par créer le token du bot. Il va nous permettre de le faire rejoindre le serveur en tant "qu'utilisateur". Pour cela, nous allons nous rendre sur l'onglet développeur du [site de discord](https://discordapp.com/developers/applications/me). Ensuite, il va falloir créer une nouvelle application avec un nom (celui de votre choix ^^'). Une fois cliquée sur `Create App`, nous allons cliquer sur le bouton bleu `Create a Bot User`. Il faudra ensuite récupérer le token du bot en cliquant sur l'encadré rouge :
 
-![Reveal Token](/img/createToken.png)
+![Reveal Token](https://blog.lucasalt.fr/img/createToken.png)
 
 Attention, il est vivement conseillé de ne pas donner votre token. N'importe qui pourrait l'utilisé.
 

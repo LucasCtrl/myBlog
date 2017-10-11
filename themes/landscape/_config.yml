@@ -3,6 +3,7 @@ menu:
   Accueil: /
   Archives: /archives
   Portfolio: https://lucasalt.fr/
+rss: /atom.xml
 
 # Content
 excerpt_link: Voir plus
@@ -30,7 +31,7 @@ show_count: false
 
 # Miscellaneous
 # google_analytics:
-favicon: /img/favicon.png
+favicon: https://lucasalt.fr/dist/img/logo.png
 twitter: MrDragonXM15
 # google_plus:
 # fb_admins:

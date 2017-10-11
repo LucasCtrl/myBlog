@@ -1,10 +1,11 @@
 ---
 title: Hello World
+date: 2017-09-04 19:36:54
 categories:
 - La vie du blog
 tags:
 - hexo
-- La vie du blog
+- laviedublog
 photos: https://blog.lucasalt.fr/img/banner/hexo-logo.png
 ---
 

@@ -5,7 +5,7 @@
 # Site
 title: LucasAlt | Blog
 subtitle:
-description:
+description: Blog sur les nouvelles technos, le développement et bien plus encore.
 author: LucasAlt
 language: fr
 timezone: Europe/Paris
@@ -97,3 +97,14 @@ githubEmojis:
   enable: true
   className: github-emoji
   unicode: true
+
+# hexo-generator-feed
+## Docs: https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: false
+  # hub:
+  content: true
+  # content_limit: 140
+  # content_limit_delim: ' '
