@@ -14,8 +14,8 @@ sidebar: right
 widgets:
 - follow_me
 - recent_posts
-- category
 - tagcloud
+- category
 # - tag
 # - archive
 
