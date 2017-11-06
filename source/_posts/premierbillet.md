@@ -9,7 +9,7 @@ tags:
 photos: https://blog.lucasalt.fr/img/banner/hexo-logo.png
 ---
 
-Aujourd'hui, j'ouvre mon blog. Il est propulsé par Hexo, un petit générateur de site web statique. C'est un peu déstabilisant au début, mais on s'y fait rapidement. C'est un peu comme Jekyll sauf que celui-ci fonctionne avec Node à contratio de Jekyll qui lui fonctionne avec Ruby. C'est un gain de temps au niveau de l'installation, car node est pratiquement sur toutes les machines Linux, donc il suffit juste de mettre à jour node ainsi que npm.
+Aujourd'hui, j'ouvre mon blog. Il est propulsé par Hexo, un petit générateur de site web statique. C'est un peu déstabilisant au début, mais on s'y fait rapidement. C'est un peu comme Jekyll sauf que celui-ci fonctionne avec Node à contrario de Jekyll qui lui fonctionne avec Ruby. C'est un gain de temps au niveau de l'installation, car node est pratiquement sur toutes les machines Linux, donc il suffit juste de mettre à jour node ainsi que npm.
 
 Au niveau de l'installation, rien de plus simple. Il y a une [documentation](https://hexo.io/docs/) relativement claire et précise et une mise à jour presque constante du framework, qui lui est en open source sur [GitHub](https://github.com/hexojs/hexo/).
 
