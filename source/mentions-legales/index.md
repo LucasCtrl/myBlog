@@ -12,7 +12,7 @@ Les propos tenus sur ce site ne représentent que l’opinion de leur auteur et 
 <h2><span class="fa fa-server"></span>  Raison Sociale de l’Hébergeur :</h2>
 
 Ce blog est hébergé par HostMyServer –  4 quai Jean Moulin – 69001 Lyon – France
-Pour contacter cet hébergeur, rendez-vous <a href="https://www.hostmyservers.fr/">ici</a>.
+Pour contacter l'hébergeur, <a href="https://www.hostmyservers.fr?p=inscription&u=594ab583a6145">rendez-vous ici</a>.
 
 <h2><span class="fa fa-creative-commons"></span> Licence</h2>
 

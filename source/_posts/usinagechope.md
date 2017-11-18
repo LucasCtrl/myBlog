@@ -5,7 +5,7 @@ categories:
 - Réalisation
 tags:
 - commandenumerique
-photos: ../img/banner/cnc.jpg
+photos: https://blog.lucasalt.fr/img/banner/cnc.jpg
 ---
 
 Depuis maintenant 3 ans, je suis une formation dans le bois (3 ans de bac professionnel en agencement puis 2 ans en BTS Développement Réalisation Bois). Le but de celle-ci est de nous former à l'utilisation de machines à commandes numériques ainsi qu'à la conception de produits divers et variés.

@@ -7,6 +7,7 @@ tags:
 - js
 - discord
 - bot
+- tutoriel
 photos: https://blog.lucasalt.fr/img/banner/discord-banner.jpg
 ---
 
