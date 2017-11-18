@@ -82,10 +82,10 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ftpsync
-  host: 91.134.185.238
-  user: lucasalt
-  pass: dctMAj3vrK
-  remote: /blog.lucasalt.fr/
+  host: 
+  user: 
+  pass: 
+  remote: 
   port: 21
   ignore:
   connections: 1
